@@ -1,0 +1,29 @@
+C:\Users\DOAN THANH CHINH\source\repos\Chatbot_telegrama\Chatbot_telegrama\bin\Debug\Chatbot_telegrama.exe.config
+C:\Users\DOAN THANH CHINH\source\repos\Chatbot_telegrama\Chatbot_telegrama\bin\Debug\Chatbot_telegrama.exe
+C:\Users\DOAN THANH CHINH\source\repos\Chatbot_telegrama\Chatbot_telegrama\bin\Debug\Chatbot_telegrama.pdb
+C:\Users\DOAN THANH CHINH\source\repos\Chatbot_telegrama\Chatbot_telegrama\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DOAN THANH CHINH\source\repos\Chatbot_telegrama\Chatbot_telegrama\bin\Debug\Telegram.Bot.dll
+C:\Users\DOAN THANH CHINH\source\repos\Chatbot_telegrama\Chatbot_telegrama\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DOAN THANH CHINH\source\repos\Chatbot_telegrama\Chatbot_telegrama\bin\Debug\Telegram.Bot.xml
+C:\Users\DOAN THANH CHINH\source\repos\Chatbot_telegrama\Chatbot_telegrama\obj\Debug\Chatbot_telegrama.csproj.AssemblyReference.cache
+C:\Users\DOAN THANH CHINH\source\repos\Chatbot_telegrama\Chatbot_telegrama\obj\Debug\Chatbot_telegrama.Form1.resources
+C:\Users\DOAN THANH CHINH\source\repos\Chatbot_telegrama\Chatbot_telegrama\obj\Debug\Chatbot_telegrama.Properties.Resources.resources
+C:\Users\DOAN THANH CHINH\source\repos\Chatbot_telegrama\Chatbot_telegrama\obj\Debug\Chatbot_telegrama.csproj.GenerateResource.cache
+C:\Users\DOAN THANH CHINH\source\repos\Chatbot_telegrama\Chatbot_telegrama\obj\Debug\Chatbot_telegrama.csproj.CoreCompileInputs.cache
+C:\Users\DOAN THANH CHINH\source\repos\Chatbot_telegrama\Chatbot_telegrama\obj\Debug\Chatbot_telegrama.exe
+C:\Users\DOAN THANH CHINH\source\repos\Chatbot_telegrama\Chatbot_telegrama\obj\Debug\Chatbot_telegrama.pdb
+C:\Users\pc\source\repos\Chatbot_telegrama\Chatbot_telegrama\bin\Debug\Chatbot_telegrama.exe.config
+C:\Users\pc\source\repos\Chatbot_telegrama\Chatbot_telegrama\bin\Debug\Chatbot_telegrama.exe
+C:\Users\pc\source\repos\Chatbot_telegrama\Chatbot_telegrama\bin\Debug\Chatbot_telegrama.pdb
+C:\Users\pc\source\repos\Chatbot_telegrama\Chatbot_telegrama\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\Chatbot_telegrama\Chatbot_telegrama\bin\Debug\Telegram.Bot.dll
+C:\Users\pc\source\repos\Chatbot_telegrama\Chatbot_telegrama\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\source\repos\Chatbot_telegrama\Chatbot_telegrama\bin\Debug\Telegram.Bot.xml
+C:\Users\pc\source\repos\Chatbot_telegrama\Chatbot_telegrama\obj\Debug\Chatbot_telegrama.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Chatbot_telegrama\Chatbot_telegrama\obj\Debug\Chatbot_telegrama.Form1.resources
+C:\Users\pc\source\repos\Chatbot_telegrama\Chatbot_telegrama\obj\Debug\Chatbot_telegrama.Properties.Resources.resources
+C:\Users\pc\source\repos\Chatbot_telegrama\Chatbot_telegrama\obj\Debug\Chatbot_telegrama.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Chatbot_telegrama\Chatbot_telegrama\obj\Debug\Chatbot_telegrama.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Chatbot_telegrama\Chatbot_telegrama\obj\Debug\Chatbot_telegrama.csproj.CopyComplete
+C:\Users\pc\source\repos\Chatbot_telegrama\Chatbot_telegrama\obj\Debug\Chatbot_telegrama.exe
+C:\Users\pc\source\repos\Chatbot_telegrama\Chatbot_telegrama\obj\Debug\Chatbot_telegrama.pdb
